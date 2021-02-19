@@ -1,0 +1,15 @@
+body {
+    display: block;
+    margin: 60px;
+}
+
+h2 {
+    border-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    color: brown;
+    text-align: center;
+}
